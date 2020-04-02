@@ -19,6 +19,6 @@ This project develop an online and offline implementation of A* search algorithm
 - Robot_control.py:
   - Controlled robot navigation base on the path get from A*path planing.
 
-## Detals works:
+## Details works:
 
-You can find more detals of the owrk from my [github](https://luxi-huang.github.io/portfolio/A_star/) 
+You can find more details of the work from my [portfolio](https://luxi-huang.github.io/portfolio/A_star/).
